@@ -10,15 +10,20 @@
 	"maraton.h"
 	"clasificacion.h"
 
-1521055095 c:\users\icarl\desktop\proyectos\ed1\p1ed1\p1ed1\p1ed1\maraton.h
+1521056580 c:\users\icarl\desktop\proyectos\ed1\p1ed1\p1ed1\p1ed1\maraton.h
 	<iostream>
 	"estructuras.h"
 
-1521054887 c:\users\icarl\desktop\proyectos\ed1\p1ed1\p1ed1\p1ed1\clasificacion.h
+1521056975 c:\users\icarl\desktop\proyectos\ed1\p1ed1\p1ed1\p1ed1\clasificacion.h
 	"estructuras.h"
 	<stdlib.h>
 
 1521055095 source:c:\users\icarl\desktop\proyectos\ed1\p1ed1\p1ed1\p1ed1\maraton.cpp
 	"maraton.h"
 	"estructuras.h"
+
+1521056128 c:\users\icarl\desktop\proyectos\ed1\p1ed1\p1ed1\p1ed1\corredor.h
+
+1521056562 source:c:\users\icarl\desktop\proyectos\ed1\p1ed1\p1ed1\p1ed1\clasificacion.cpp
+	"clasificacion.h"
 

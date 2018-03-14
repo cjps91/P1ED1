@@ -5,12 +5,14 @@
 #include <stdlib.h>
 
 
-class Clasificacion {
-		struct Corredor {
+struct Corredor {
             int indice;
             int dorsal;
             int marca;
         };
+
+class Clasificacion {
+
 		Corredor  *elementos; //elementos de la tabla
 		int corredores;
 		int tamano;
@@ -22,11 +24,7 @@ public:
 		Corredor consultar(int i);
 		bool vacio();
 		int numcorredores();
+		int marcas(int s) {return (rand()%s + 7000);}
 };
-
-int marcas(int s) {
-    return (rand()%s + 7000);
-}
-
 
 #endif // CLASIFICACION_H_INCLUDED

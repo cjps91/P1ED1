@@ -3,11 +3,8 @@
 #include <iostream>
 using namespace std;
 #include "estructuras.h"
-class Maraton {
-		std::fstream fich(); //fichero primera fase
-        std::fstream fichero(); //fichero segunda fase
-        int numAtletas;
-        struct Atleta {
+
+struct Atleta {
             int dorsal;
             cadena pais;
             cadena nombre;
@@ -15,6 +12,12 @@ class Maraton {
             int marca;
             int posicion;
 };
+
+class Maraton {
+		std::fstream fich(); //fichero primera fase
+        std::fstream fichero(); //fichero segunda fase
+        int numAtletas;
+
 
 public:
 		Maraton(char FicheroOrigen[],char FicheroDestino[]);

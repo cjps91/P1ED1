@@ -1,5 +1,5 @@
 #include "clasificacion.h"
-#include "estructuras.h"
+
 
 Clasificacion::Clasificacion()
 {

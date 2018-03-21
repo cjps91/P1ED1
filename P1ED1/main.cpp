@@ -1,4 +1,4 @@
-//Carlos Javier Pérez Sánchez
+//Carlos Javier Pérez Sánchez GPL3
 
 #include <iostream>
 

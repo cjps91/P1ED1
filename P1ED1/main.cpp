@@ -1,3 +1,5 @@
+//Carlos Javier Pérez Sánchez
+
 #include <iostream>
 
 using namespace std;
@@ -9,8 +11,8 @@ using namespace std;
 int main()
 {
 int numatletas=0;
-int menuop;
-do{
+int menuop=0;
+while(menuop!=6){
 system("cls");
 cout<< "\n Practica 1 de ED1        Carlos Javier Perez Sanchez \n";
 
@@ -33,7 +35,7 @@ switch(menuop)
     default: system("cls"); cout<< "\n OPCION INCORRECTA. Pruebe de nuevo \n";
 }
 
-} while(menuop!=6);
+};
 system("pause");
     return 0;
 }

@@ -22,6 +22,17 @@ cout<<" Indique la opcion deseada: ";
 cin>>menuop;
 cin.ignore(1,'\n');
 
+switch(menuop)
+{
+    case 1: break;
+    case 2: break;
+    case 3: break;
+    case 4: break;
+    case 5: break;
+    case 6: break;
+    default: system("cls"); cout<< "\n OPCION INCORRECTA. Pruebe de nuevo \n";
+}
+
 } while(menuop!=6);
 system("pause");
     return 0;

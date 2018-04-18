@@ -1,4 +1,5 @@
 //Carlos Javier Pérez Sánchez GPL3 v1
+//Práctica 1 de Estructura de Datos 1 del curso 2017/2018 del Grado en Ingeniería Informática de la Universidad de Huelva
 
 #include <iostream>
 

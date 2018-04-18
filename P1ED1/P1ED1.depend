@@ -1,8 +1,8 @@
 # depslib dependency file v1.0
-1521054284 source:c:\users\icarl\desktop\proyectos\ed1\p1ed1\p1ed1\p1ed1\estructuras.cpp
+1521057884 source:c:\users\icarl\desktop\proyectos\ed1\p1ed1\p1ed1\p1ed1\estructuras.cpp
 	"estructuras.h"
 
-1521055095 c:\users\icarl\desktop\proyectos\ed1\p1ed1\p1ed1\p1ed1\estructuras.h
+1521058695 c:\users\icarl\desktop\proyectos\ed1\p1ed1\p1ed1\p1ed1\estructuras.h
 
 1521054786 source:c:\users\icarl\desktop\proyectos\ed1\p1ed1\p1ed1\p1ed1\main.cpp
 	<iostream>
@@ -10,20 +10,20 @@
 	"maraton.h"
 	"clasificacion.h"
 
-1521056580 c:\users\icarl\desktop\proyectos\ed1\p1ed1\p1ed1\p1ed1\maraton.h
+1521060180 c:\users\icarl\desktop\proyectos\ed1\p1ed1\p1ed1\p1ed1\maraton.h
 	<iostream>
 	"estructuras.h"
 
-1521056975 c:\users\icarl\desktop\proyectos\ed1\p1ed1\p1ed1\p1ed1\clasificacion.h
+1521060575 c:\users\icarl\desktop\proyectos\ed1\p1ed1\p1ed1\p1ed1\clasificacion.h
 	"estructuras.h"
 	<stdlib.h>
 
-1521055095 source:c:\users\icarl\desktop\proyectos\ed1\p1ed1\p1ed1\p1ed1\maraton.cpp
+1521058695 source:c:\users\icarl\desktop\proyectos\ed1\p1ed1\p1ed1\p1ed1\maraton.cpp
 	"maraton.h"
 	"estructuras.h"
 
 1521056128 c:\users\icarl\desktop\proyectos\ed1\p1ed1\p1ed1\p1ed1\corredor.h
 
-1521056562 source:c:\users\icarl\desktop\proyectos\ed1\p1ed1\p1ed1\p1ed1\clasificacion.cpp
+1521060162 source:c:\users\icarl\desktop\proyectos\ed1\p1ed1\p1ed1\p1ed1\clasificacion.cpp
 	"clasificacion.h"
 
